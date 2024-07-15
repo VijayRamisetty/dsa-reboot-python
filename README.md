@@ -2,9 +2,17 @@
 A Comprehensive Reboot On DSA using Python
 
 
+## Sort
+
+1. Bubble Sort
+2. Insertion Sort
+3. Selection Sort
+4. Merge Sort
+5. Quick Sort
+
+
 ## Search
 
-## Sort
 1. Linear Search
 2. Binary Search
 
@@ -32,3 +40,5 @@ A Comprehensive Reboot On DSA using Python
 ## Advanced
 
 ## Misc
+
+## Design
